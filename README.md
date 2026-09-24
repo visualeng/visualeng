@@ -35,8 +35,8 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=visualeng&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visualeng&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa" />
+  <img src="./assets/stats.svg" alt="Статистика" />
+  <img src="./assets/langs.svg" alt="Технологии" />
 </div>
 
 ---
@@ -44,7 +44,7 @@
 ## 🔥 График активности
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visualeng&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa" />
+  <img src="./assets/graph.svg" alt="График активности" />
 </div>
 
 ---
